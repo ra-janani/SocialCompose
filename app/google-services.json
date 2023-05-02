@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275677826994",
+    "project_id": "socialcompose",
+    "storage_bucket": "socialcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275677826994:android:be6aadc9de76567aed5eab",
+        "android_client_info": {
+          "package_name": "com.example.socialcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275677826994-p4ni4rk6jd0l0d22ccjpto9mtksajd1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialcompose",
+            "certificate_hash": "73dbd5808112906268d210ccf14cdd2dd787044b"
+          }
+        },
+        {
+          "client_id": "275677826994-8kavn5m8dtjn32v1vgi75vuthdv5uovg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJH8feXEgBsDDYscPtpwlyKB6X74x4BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275677826994-8kavn5m8dtjn32v1vgi75vuthdv5uovg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
